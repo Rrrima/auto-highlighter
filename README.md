@@ -16,16 +16,16 @@ Code for data preprocessing can be found here: https://github.com/abisee/cnn-dai
 ## Model training
 Change the config.py file in the data_util folder for setting hyper-parameter and define file paths.
 Run
-、、、
+```
 python3 train.py
-、、、
+V
 
 ## Model testing
 Change the config.py file in the data_util folder for setting hyper-parameter and define file paths.
 Run
-、、、
+```
 python eval.py --task=test --load_model=[NAME OF YOUR MODEL].tar
-、、、
+```
 
 ## References and Credits
 * Pointer mechanism for handling Out of Vocabulary (OOV) words [See et al. (2017)](https://arxiv.org/pdf/1704.04368.pdf)
