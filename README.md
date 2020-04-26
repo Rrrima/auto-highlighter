@@ -26,7 +26,7 @@ Run
 ```
 python eval.py --task=test --load_model=[NAME OF YOUR MODEL].tar
 ```
-The pretrained model can be find [here](https://drive.google.com/file/d/13MCdi6Y_3D54vdstF-JMfnU5O-WZ-WrW/view?usp=sharing)
+The pretrained model can be found [here](https://drive.google.com/file/d/13MCdi6Y_3D54vdstF-JMfnU5O-WZ-WrW/view?usp=sharing)
 
 ## References and Credits
 * Pointer mechanism for handling Out of Vocabulary (OOV) words [See et al. (2017)](https://arxiv.org/pdf/1704.04368.pdf)
