@@ -18,7 +18,7 @@ Change the config.py file in the data_util folder for setting hyper-parameter an
 Run
 ```
 python3 train.py
-V
+```
 
 ## Model testing
 Change the config.py file in the data_util folder for setting hyper-parameter and define file paths.
